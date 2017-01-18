@@ -1,0 +1,11 @@
+
+Error!  The following AccNumbers do not have a corresponding SAP G/L Account in the mapping table! 
+
+Account Code                       
+=============================================================
+ 
+8000000                                 
+9300000                                 
+ 
+===============================================================
+Please create an entry for each of these invalid AccNumbers.

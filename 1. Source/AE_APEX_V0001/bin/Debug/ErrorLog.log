@@ -1,0 +1,12 @@
+[08/11/2014 11:31:33][                                  Main()] Index was outside the bounds of the array.
+[08/11/2014 13:09:34][                     JournalEntryPosting] System call failed. (Exception from HRESULT: 0x80010100 (RPC_E_SYS_CALL_FAILED))
+[08/11/2014 13:09:42][  'Create JE' Button Click - ID 'Item_6'] System call failed. (Exception from HRESULT: 0x80010100 (RPC_E_SYS_CALL_FAILED))
+[08/11/2014 13:09:42][                               ShowErr()] Unable to cast COM object of type 'SAPbouiCOM.ApplicationClass' to interface type 'SAPbouiCOM.IApplication'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{D1F75D47-137C-4335-AC2A-3FE209831B6A}' failed due to the following error: System call failed. (Exception from HRESULT: 0x80010100 (RPC_E_SYS_CALL_FAILED)).
+[08/11/2014 13:15:06][                     JournalEntryPosting] Completed with ERROR ---Invalid Account Code
+[08/11/2014 13:15:25][  'Create JE' Button Click - ID 'Item_6'] Completed With Error JournalEntry Posting Function
+[08/11/2014 13:15:26][  'Create JE' Button Click - ID 'Item_6'] Rollback transaction on company database
+[08/11/2014 13:17:24][                     JournalEntryPosting] Completed with ERROR ---Invalid Account Code
+[08/11/2014 13:17:24][  'Create JE' Button Click - ID 'Item_6'] Completed With Error JournalEntry Posting Function
+[08/11/2014 13:17:24][  'Create JE' Button Click - ID 'Item_6'] Rollback transaction on company database
+[08/11/2014 13:18:33][                      GetDataViewFromCSV] The Microsoft Jet database engine cannot open the file ''.  It is already opened exclusively by another user, or you need permission to view its data.
+[08/11/2014 13:28:26][                      GetDataViewFromCSV] The Microsoft Jet database engine cannot open the file ''.  It is already opened exclusively by another user, or you need permission to view its data.

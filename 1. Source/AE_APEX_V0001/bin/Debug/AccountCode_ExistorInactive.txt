@@ -1,0 +1,10 @@
+
+Error!The following SAP G/L Accounts are not found in the Chart of Accounts or the Account is not an Active ! 
+
+Account Code                       
+=============================================================
+ 
+4001801                                 
+ 
+===============================================================
+Please create an entry for each of these invalid Account Numbers in Chart of Accounts or make sure these accounts are Active.
