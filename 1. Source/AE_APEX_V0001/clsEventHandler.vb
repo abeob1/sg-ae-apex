@@ -34,7 +34,7 @@ Public Class clsEventHandler
         '   Parameters :    ByRef sErrDesc AS string
         '                       sErrDesc = Error Description to be returned to calling function
         '   Return     :    0 - FAILURE
-        '                   1 - SUCCESS
+        '                   1 - SUCCESS...
         ' **********************************************************************************
         Dim sFuncName As String = String.Empty
 
